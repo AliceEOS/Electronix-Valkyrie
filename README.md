@@ -1,1 +1,2 @@
-# Electronix-Suisei
+# Electronix Valkyrie
+By Alice EOS
